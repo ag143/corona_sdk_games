@@ -21,3 +21,5 @@
 * Music volume instead of on\off state
 * Music for finish screen & inbetween changings of day\night
 * Small crabs are crawling on the beach during day (you can hit them but new appear instead) and at night they suddenly grew larger and attack together with new one from the sea, at day they become small again and return to the beach and excess amount of crabs return to the sea
+## screenshots
+<img src="screenshots/dkmGWd.jpg" width="250"> <img src="screenshots/f69aVK.jpg" width="250"> <img src="screenshots/A3zyOA.jpg" width="250"> 
